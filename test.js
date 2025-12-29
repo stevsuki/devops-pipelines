@@ -1,4 +1,4 @@
-console.lot("Start Unit Testing...");
+console.log("Start Unit Testing...");
 setTimeout(() => {
 	console.log("Progress...");
 }, 3000);
